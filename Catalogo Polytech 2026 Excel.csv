@@ -1,0 +1,771 @@
+Macrocategoria;Linea;Superficie;Forma;Profilo;Codice Prodotto;Larghezza (mm);Altezza (mm);Proiezione (mm);Arco (mm);LVC (mm);Volume (ml)
+Protesi Mammarie;B-Lite;MESMO;Même;Moderato;15625-130LW25;93;93;32;59;59;130
+Protesi Mammarie;B-Lite;MESMO;Même;Moderato;15625-150LW25;98;98;34;62;62;150
+Protesi Mammarie;B-Lite;MESMO;Même;Moderato;15625-175LW25;103;103;35;65;65;175
+Protesi Mammarie;B-Lite;MESMO;Même;Moderato;15625-200LW25;108;108;36;68;68;200
+Protesi Mammarie;B-Lite;MESMO;Même;Moderato;15625-230LW25;113;113;37;71;71;230
+Protesi Mammarie;B-Lite;MESMO;Même;Moderato;15625-260LW25;118;118;39;74;74;260
+Protesi Mammarie;B-Lite;MESMO;Même;Moderato;15625-290LW25;123;123;40;77;77;290
+Protesi Mammarie;B-Lite;MESMO;Même;Moderato;15625-325LW25;128;128;41;80;80;325
+Protesi Mammarie;B-Lite;MESMO;Même;Moderato;15625-365LW25;133;133;42;83;83;365
+Protesi Mammarie;B-Lite;MESMO;Même;Moderato;15625-405LW25;138;138;44;86;86;405
+Protesi Mammarie;B-Lite;MESMO;Même;Moderato;15625-450LW25;143;143;45;89;89;450
+Protesi Mammarie;B-Lite;MESMO;Même;Moderato;15625-495LW25;148;148;46;92;92;495
+Protesi Mammarie;B-Lite;MESMO;Même;Moderato;15625-545LW25;153;153;47;95;95;545
+Protesi Mammarie;B-Lite;MESMO;Même;Moderato;15625-600LW25;158;158;49;98;98;600
+Protesi Mammarie;B-Lite;MESMO;Même;Alto;15626-165LW25;93;93;39;64;64;165
+Protesi Mammarie;B-Lite;MESMO;Même;Alto;15626-190LW25;98;98;41;67;67;190
+Protesi Mammarie;B-Lite;MESMO;Même;Alto;15626-215LW25;103;103;43;71;71;215
+Protesi Mammarie;B-Lite;MESMO;Même;Alto;15626-250LW25;108;108;44;74;74;250
+Protesi Mammarie;B-Lite;MESMO;Même;Alto;15626-285LW25;113;113;46;77;77;285
+Protesi Mammarie;B-Lite;MESMO;Même;Alto;15626-325LW25;118;118;48;80;80;325
+Protesi Mammarie;B-Lite;MESMO;Même;Alto;15626-365LW25;123;123;49;83;83;365
+Protesi Mammarie;B-Lite;MESMO;Même;Alto;15626-410LW25;128;128;51;87;87;410
+Protesi Mammarie;B-Lite;MESMO;Même;Alto;15626-460LW25;133;133;53;90;90;460
+Protesi Mammarie;B-Lite;MESMO;Même;Alto;15626-510LW25;138;138;54;93;93;510
+Protesi Mammarie;B-Lite;MESMO;Même;Alto;15626-565LW25;143;143;56;96;96;565
+Protesi Mammarie;B-Lite;MESMO;Même;Alto;15626-625LW25;148;148;58;100;100;625
+Protesi Mammarie;B-Lite;MESMO;Même;Alto;15626-690LW25;153;153;59;103;103;690
+Protesi Mammarie;B-Lite;MESMO;Même;Alto;15626-760LW25;158;158;61;106;106;760
+Protesi Mammarie;B-Lite;MESMO;Même;Extra Alto;15627-195LW25;93;93;47;69;69;195
+Protesi Mammarie;B-Lite;MESMO;Même;Extra Alto;15627-225LW25;98;98;49;73;73;225
+Protesi Mammarie;B-Lite;MESMO;Même;Extra Alto;15627-260LW25;103;103;51;77;77;260
+Protesi Mammarie;B-Lite;MESMO;Même;Extra Alto;15627-300LW25;108;108;53;80;80;300
+Protesi Mammarie;B-Lite;MESMO;Même;Extra Alto;15627-345LW25;113;113;55;84;84;345
+Protesi Mammarie;B-Lite;MESMO;Même;Extra Alto;15627-390LW25;118;118;57;87;87;390
+Protesi Mammarie;B-Lite;MESMO;Même;Extra Alto;15627-440LW25;123;123;59;91;91;440
+Protesi Mammarie;B-Lite;MESMO;Même;Extra Alto;15627-495LW25;128;128;61;94;94;495
+Protesi Mammarie;B-Lite;MESMO;Même;Extra Alto;15627-555LW25;133;133;63;98;98;555
+Protesi Mammarie;B-Lite;MESMO;Même;Extra Alto;15627-615LW25;138;138;65;101;101;615
+Protesi Mammarie;B-Lite;MESMO;Même;Extra Alto;15627-685LW25;143;143;67;105;105;685
+Protesi Mammarie;B-Lite;MESMO;Même;Extra Alto;15627-755LW25;148;148;69;108;108;755
+Protesi Mammarie;B-Lite;MESMO;Même;Extra Alto;15627-835LW25;153;153;71;112;112;835
+Protesi Mammarie;B-Lite;MESMO;Même;Extra Alto;15627-920LW25;158;158;73;115;115;920
+Protesi Mammarie;B-Lite;MESMO;Replicon;Moderato;15635-155LW25;103;103;35;50;69;155
+Protesi Mammarie;B-Lite;MESMO;Replicon;Moderato;15635-175LW25;108;108;36;52;72;175
+Protesi Mammarie;B-Lite;MESMO;Replicon;Moderato;15635-200LW25;113;113;37;55;75;200
+Protesi Mammarie;B-Lite;MESMO;Replicon;Moderato;15635-230LW25;118;118;39;57;78;230
+Protesi Mammarie;B-Lite;MESMO;Replicon;Moderato;15635-255LW25;123;123;40;59;82;255
+Protesi Mammarie;B-Lite;MESMO;Replicon;Moderato;15635-290LW25;128;128;41;61;85;290
+Protesi Mammarie;B-Lite;MESMO;Replicon;Moderato;15635-320LW25;133;133;42;63;88;320
+Protesi Mammarie;B-Lite;MESMO;Replicon;Moderato;15635-355LW25;138;138;44;66;91;355
+Protesi Mammarie;B-Lite;MESMO;Replicon;Moderato;15635-395LW25;143;143;45;68;94;395
+Protesi Mammarie;B-Lite;MESMO;Replicon;Moderato;15635-435LW25;148;148;46;70;97;435
+Protesi Mammarie;B-Lite;MESMO;Replicon;Moderato;15635-480LW25;153;153;47;72;100;480
+Protesi Mammarie;B-Lite;MESMO;Replicon;Moderato;15635-525LW25;158;158;49;74;103;525
+Protesi Mammarie;B-Lite;MESMO;Replicon;Alto;15636-190LW25;103;103;43;57;76;190
+Protesi Mammarie;B-Lite;MESMO;Replicon;Alto;15636-220LW25;108;108;44;59;79;220
+Protesi Mammarie;B-Lite;MESMO;Replicon;Alto;15636-250LW25;113;113;46;62;83;250
+Protesi Mammarie;B-Lite;MESMO;Replicon;Alto;15636-285LW25;118;118;48;64;86;285
+Protesi Mammarie;B-Lite;MESMO;Replicon;Alto;15636-320LW25;123;123;49;67;89;320
+Protesi Mammarie;B-Lite;MESMO;Replicon;Alto;15636-360LW25;128;128;51;69;93;360
+Protesi Mammarie;B-Lite;MESMO;Replicon;Alto;15636-405LW25;133;133;53;72;96;405
+Protesi Mammarie;B-Lite;MESMO;Replicon;Alto;15636-450LW25;138;138;54;74;100;450
+Protesi Mammarie;B-Lite;MESMO;Replicon;Alto;15636-500LW25;143;143;56;77;103;500
+Protesi Mammarie;B-Lite;MESMO;Replicon;Alto;15636-550LW25;148;148;58;79;107;550
+Protesi Mammarie;B-Lite;MESMO;Replicon;Alto;15636-610LW25;153;153;59;82;110;610
+Protesi Mammarie;B-Lite;MESMO;Replicon;Alto;15636-670LW25;158;158;61;84;114;670
+Protesi Mammarie;B-Lite;MESMO;Replicon;Extra Alto;15637-200LW25;98;98;49;61;79;200
+Protesi Mammarie;B-Lite;MESMO;Replicon;Extra Alto;15637-230LW25;103;103;51;63;83;230
+Protesi Mammarie;B-Lite;MESMO;Replicon;Extra Alto;15637-265LW25;108;108;53;66;87;265
+Protesi Mammarie;B-Lite;MESMO;Replicon;Extra Alto;15637-300LW25;113;113;55;69;90;300
+Protesi Mammarie;B-Lite;MESMO;Replicon;Extra Alto;15637-345LW25;118;118;57;72;94;345
+Protesi Mammarie;B-Lite;MESMO;Replicon;Extra Alto;15637-385LW25;123;123;59;75;98;385
+Protesi Mammarie;B-Lite;MESMO;Replicon;Extra Alto;15637-435LW25;128;128;61;78;102;435
+Protesi Mammarie;B-Lite;MESMO;Replicon;Extra Alto;15637-485LW25;133;133;63;80;105;485
+Protesi Mammarie;B-Lite;MESMO;Replicon;Extra Alto;15637-545LW25;138;138;65;83;109;545
+Protesi Mammarie;B-Lite;MESMO;Replicon;Extra Alto;15637-605LW25;143;143;67;86;113;605
+Protesi Mammarie;B-Lite;MESMO;Replicon;Extra Alto;15637-665LW25;148;148;69;89;117;665
+Protesi Mammarie;B-Lite;MESMO;Replicon;Extra Alto;15637-735LW25;153;153;71;92;121;735
+Protesi Mammarie;B-Lite;MESMO;Replicon;Extra Alto;15637-810LW25;158;158;73;95;124;810
+Protesi Mammarie;B-Lite;MESMO;Opticon;Moderato;15645-170LW25;113;95;37;51;67;170
+Protesi Mammarie;B-Lite;MESMO;Opticon;Moderato;15645-190LW25;118;100;39;53;70;190
+Protesi Mammarie;B-Lite;MESMO;Opticon;Moderato;15645-215LW25;123;104;40;55;72;215
+Protesi Mammarie;B-Lite;MESMO;Opticon;Moderato;15645-240LW25;128;108;41;57;75;240
+Protesi Mammarie;B-Lite;MESMO;Opticon;Moderato;15645-270LW25;133;112;42;59;78;270
+Protesi Mammarie;B-Lite;MESMO;Opticon;Moderato;15645-300LW25;138;116;44;61;81;300
+Protesi Mammarie;B-Lite;MESMO;Opticon;Moderato;15645-330LW25;143;121;45;63;83;330
+Protesi Mammarie;B-Lite;MESMO;Opticon;Moderato;15645-365LW25;148;125;46;65;86;365
+Protesi Mammarie;B-Lite;MESMO;Opticon;Alto;15646-210LW25;113;95;46;58;75;210
+Protesi Mammarie;B-Lite;MESMO;Opticon;Alto;15646-240LW25;118;100;48;61;78;240
+Protesi Mammarie;B-Lite;MESMO;Opticon;Alto;15646-270LW25;123;104;49;63;81;270
+Protesi Mammarie;B-Lite;MESMO;Opticon;Alto;15646-305LW25;128;108;51;65;84;305
+Protesi Mammarie;B-Lite;MESMO;Opticon;Alto;15646-340LW25;133;112;53;68;87;340
+Protesi Mammarie;B-Lite;MESMO;Opticon;Alto;15646-380LW25;138;116;54;70;90;380
+Protesi Mammarie;B-Lite;MESMO;Opticon;Alto;15646-420LW25;143;121;56;72;93;420
+Protesi Mammarie;B-Lite;MESMO;Opticon;Alto;15646-465LW25;148;125;58;75;96;465
+Protesi Mammarie;B-Lite;MESMO;Opticon;Alto;15646-510LW25;153;129;59;77;99;510
+Protesi Mammarie;B-Lite;MESMO;Opticon;Extra Alto;15647-290LW25;118;100;57;69;86;290
+Protesi Mammarie;B-Lite;MESMO;Opticon;Extra Alto;15647-325LW25;123;104;59;71;89;325
+Protesi Mammarie;B-Lite;MESMO;Opticon;Extra Alto;15647-365LW25;128;108;61;74;93;365
+Protesi Mammarie;B-Lite;MESMO;Opticon;Extra Alto;15647-410LW25;133;112;63;77;96;410
+Protesi Mammarie;B-Lite;Microthane;Même;Moderato;30625-130LW25;96;96;34;62;62;130
+Protesi Mammarie;B-Lite;Microthane;Même;Moderato;30625-150LW25;101;101;36;65;65;150
+Protesi Mammarie;B-Lite;Microthane;Même;Moderato;30625-175LW25;106;106;37;68;68;175
+Protesi Mammarie;B-Lite;Microthane;Même;Moderato;30625-200LW25;111;111;38;71;71;200
+Protesi Mammarie;B-Lite;Microthane;Même;Moderato;30625-230LW25;116;116;39;74;74;230
+Protesi Mammarie;B-Lite;Microthane;Même;Moderato;30625-260LW25;121;121;41;77;77;260
+Protesi Mammarie;B-Lite;Microthane;Même;Moderato;30625-290LW25;126;126;42;80;80;290
+Protesi Mammarie;B-Lite;Microthane;Même;Moderato;30625-325LW25;131;131;43;83;83;325
+Protesi Mammarie;B-Lite;Microthane;Même;Moderato;30625-365LW25;136;136;44;86;86;365
+Protesi Mammarie;B-Lite;Microthane;Même;Moderato;30625-405LW25;141;141;46;89;89;405
+Protesi Mammarie;B-Lite;Microthane;Même;Moderato;30625-450LW25;146;146;47;92;92;450
+Protesi Mammarie;B-Lite;Microthane;Même;Alto;30626-190LW25;101;101;43;71;71;190
+Protesi Mammarie;B-Lite;Microthane;Même;Alto;30626-215LW25;106;106;45;74;74;215
+Protesi Mammarie;B-Lite;Microthane;Même;Alto;30626-250LW25;111;111;46;77;77;250
+Protesi Mammarie;B-Lite;Microthane;Même;Alto;30626-285LW25;116;116;48;80;80;285
+Protesi Mammarie;B-Lite;Microthane;Même;Alto;30626-325LW25;121;121;50;83;83;325
+Protesi Mammarie;B-Lite;Microthane;Même;Alto;30626-365LW25;126;126;51;87;87;365
+Protesi Mammarie;B-Lite;Microthane;Même;Alto;30626-410LW25;131;131;53;90;90;410
+Protesi Mammarie;B-Lite;Microthane;Même;Alto;30626-460LW25;136;136;55;93;93;460
+Protesi Mammarie;B-Lite;Microthane;Même;Alto;30626-510LW25;141;141;56;96;96;510
+Protesi Mammarie;B-Lite;Microthane;Même;Alto;30626-565LW25;146;146;58;100;100;565
+Protesi Mammarie;B-Lite;Microthane;Même;Alto;30626-625LW25;151;151;60;103;103;625
+Protesi Mammarie;B-Lite;Microthane;Même;Alto;30626-690LW25;156;156;61;106;106;690
+Protesi Mammarie;B-Lite;Microthane;Même;Extra Alto;30627-260LW25;106;106;53;80;80;260
+Protesi Mammarie;B-Lite;Microthane;Même;Extra Alto;30627-300LW25;111;111;55;84;84;300
+Protesi Mammarie;B-Lite;Microthane;Même;Extra Alto;30627-345LW25;116;116;57;87;87;345
+Protesi Mammarie;B-Lite;Microthane;Même;Extra Alto;30627-390LW25;121;121;59;91;91;390
+Protesi Mammarie;B-Lite;Microthane;Même;Extra Alto;30627-440LW25;126;126;61;94;94;440
+Protesi Mammarie;B-Lite;Microthane;Même;Extra Alto;30627-495LW25;131;131;63;98;98;495
+Protesi Mammarie;B-Lite;Microthane;Même;Extra Alto;30627-555LW25;136;136;65;101;101;555
+Protesi Mammarie;B-Lite;Microthane;Même;Extra Alto;30627-615LW25;141;141;67;105;105;615
+Protesi Mammarie;B-Lite;Microthane;Même;Extra Alto;30627-685LW25;146;146;69;108;108;685
+Protesi Mammarie;B-Lite;Microthane;Même;Extra Alto;30627-755LW25;151;151;71;112;112;755
+Protesi Mammarie;B-Lite;Microthane;Même;Extra Alto;30627-835LW25;156;156;73;115;115;835
+Protesi Mammarie;B-Lite;Microthane;Même;Extra Alto;30627-920LW25;161;161;75;119;119;920
+Protesi Mammarie;B-Lite;Microthane;Replicon;Moderato;30635-155LW25;106;106;37;52;72;155
+Protesi Mammarie;B-Lite;Microthane;Replicon;Moderato;30635-175LW25;111;111;38;55;75;175
+Protesi Mammarie;B-Lite;Microthane;Replicon;Moderato;30635-200LW25;116;116;39;57;78;200
+Protesi Mammarie;B-Lite;Microthane;Replicon;Moderato;30635-230LW25;121;121;41;59;82;230
+Protesi Mammarie;B-Lite;Microthane;Replicon;Moderato;30635-255LW25;126;126;42;61;85;255
+Protesi Mammarie;B-Lite;Microthane;Replicon;Moderato;30635-290LW25;131;131;43;63;88;290
+Protesi Mammarie;B-Lite;Microthane;Replicon;Moderato;30635-320LW25;136;136;44;66;91;320
+Protesi Mammarie;B-Lite;Microthane;Replicon;Moderato;30635-355LW25;141;141;46;68;94;355
+Protesi Mammarie;B-Lite;Microthane;Replicon;Moderato;30635-395LW25;146;146;47;70;97;395
+Protesi Mammarie;B-Lite;Microthane;Replicon;Moderato;30635-435LW25;151;151;48;72;100;435
+Protesi Mammarie;B-Lite;Microthane;Replicon;Moderato;30635-480LW25;156;156;49;74;103;480
+Protesi Mammarie;B-Lite;Microthane;Replicon;Alto;30636-190LW25;106;106;45;59;79;190
+Protesi Mammarie;B-Lite;Microthane;Replicon;Alto;30636-220LW25;111;111;46;62;83;220
+Protesi Mammarie;B-Lite;Microthane;Replicon;Alto;30636-250LW25;116;116;48;64;86;250
+Protesi Mammarie;B-Lite;Microthane;Replicon;Alto;30636-285LW25;121;121;50;67;89;285
+Protesi Mammarie;B-Lite;Microthane;Replicon;Alto;30636-320LW25;126;126;51;69;93;320
+Protesi Mammarie;B-Lite;Microthane;Replicon;Alto;30636-360LW25;131;131;53;72;96;360
+Protesi Mammarie;B-Lite;Microthane;Replicon;Alto;30636-405LW25;136;136;55;74;100;405
+Protesi Mammarie;B-Lite;Microthane;Replicon;Alto;30636-450LW25;141;141;56;77;103;450
+Protesi Mammarie;B-Lite;Microthane;Replicon;Alto;30636-500LW25;146;146;58;79;107;500
+Protesi Mammarie;B-Lite;Microthane;Replicon;Alto;30636-550LW25;151;151;60;82;110;550
+Protesi Mammarie;B-Lite;Microthane;Replicon;Alto;30636-610LW25;156;156;61;84;114;610
+Protesi Mammarie;B-Lite;Microthane;Replicon;Alto;30636-670LW25;161;161;63;87;117;670
+Protesi Mammarie;B-Lite;Microthane;Replicon;Extra Alto;30637-230LW25;106;106;53;66;87;230
+Protesi Mammarie;B-Lite;Microthane;Replicon;Extra Alto;30637-265LW25;111;111;55;69;90;265
+Protesi Mammarie;B-Lite;Microthane;Replicon;Extra Alto;30637-300LW25;116;116;57;72;94;300
+Protesi Mammarie;B-Lite;Microthane;Replicon;Extra Alto;30637-345LW25;121;121;59;75;98;345
+Protesi Mammarie;B-Lite;Microthane;Replicon;Extra Alto;30637-385LW25;126;126;61;78;102;385
+Protesi Mammarie;B-Lite;Microthane;Replicon;Extra Alto;30637-435LW25;131;131;63;80;105;435
+Protesi Mammarie;B-Lite;Microthane;Replicon;Extra Alto;30637-485LW25;136;136;65;83;109;485
+Protesi Mammarie;B-Lite;Microthane;Replicon;Extra Alto;30637-545LW25;141;141;67;86;113;545
+Protesi Mammarie;B-Lite;Microthane;Replicon;Extra Alto;30637-605LW25;146;146;69;89;117;605
+Protesi Mammarie;B-Lite;Microthane;Replicon;Extra Alto;30637-665LW25;151;151;71;92;121;665
+Protesi Mammarie;B-Lite;Microthane;Replicon;Extra Alto;30637-735LW25;156;156;73;95;124;735
+Protesi Mammarie;B-Lite;Microthane;Replicon;Extra Alto;30637-810LW25;161;161;75;97;128;810
+Protesi Mammarie;B-Lite;Microthane;Opticon;Moderato;30645-170LW25;116;98;39;53;70;170
+Protesi Mammarie;B-Lite;Microthane;Opticon;Moderato;30645-190LW25;121;103;41;55;72;190
+Protesi Mammarie;B-Lite;Microthane;Opticon;Moderato;30645-215LW25;126;107;42;57;75;215
+Protesi Mammarie;B-Lite;Microthane;Opticon;Moderato;30645-240LW25;131;111;43;59;78;240
+Protesi Mammarie;B-Lite;Microthane;Opticon;Moderato;30645-270LW25;136;115;44;61;81;270
+Protesi Mammarie;B-Lite;Microthane;Opticon;Moderato;30645-300LW25;141;119;46;63;83;300
+Protesi Mammarie;B-Lite;Microthane;Opticon;Moderato;30645-330LW25;146;124;47;65;86;330
+Protesi Mammarie;B-Lite;Microthane;Opticon;Moderato;30645-365LW25;151;128;48;67;89;365
+Protesi Mammarie;B-Lite;Microthane;Opticon;Alto;30646-210LW25;116;98;48;61;78;210
+Protesi Mammarie;B-Lite;Microthane;Opticon;Alto;30646-240LW25;121;103;50;63;81;240
+Protesi Mammarie;B-Lite;Microthane;Opticon;Alto;30646-270LW25;126;107;51;65;84;270
+Protesi Mammarie;B-Lite;Microthane;Opticon;Alto;30646-305LW25;131;111;53;68;87;305
+Protesi Mammarie;B-Lite;Microthane;Opticon;Alto;30646-340LW25;136;115;55;70;90;340
+Protesi Mammarie;B-Lite;Microthane;Opticon;Alto;30646-380LW25;141;119;56;72;93;380
+Protesi Mammarie;B-Lite;Microthane;Opticon;Alto;30646-420LW25;146;124;58;75;96;420
+Protesi Mammarie;B-Lite;Microthane;Opticon;Alto;30646-465LW25;151;128;60;77;99;465
+Protesi Mammarie;B-Lite;Microthane;Opticon;Alto;30646-510LW25;156;132;61;80;102;510
+Protesi Mammarie;B-Lite;Microthane;Opticon;Alto;30646-560LW25;161;136;63;82;105;560
+Protesi Mammarie;B-Lite;Microthane;Opticon;Extra Alto;30647-290LW25;121;103;59;71;89;290
+Protesi Mammarie;B-Lite;Microthane;Opticon;Extra Alto;30647-325LW25;126;107;61;74;93;325
+Protesi Mammarie;B-Lite;Microthane;Opticon;Extra Alto;30647-365LW25;131;111;63;77;96;365
+Protesi Mammarie;B-Lite;Microthane;Opticon;Extra Alto;30647-410LW25;136;115;65;79;100;410
+Protesi Mammarie;B-Lite;Microthane;Opticon;Extra Alto;30647-455LW25;141;119;67;82;103;455
+Protesi Mammarie;B-Lite;Microthane;Opticon;Extra Alto;30647-510LW25;146;124;69;85;106;510
+Protesi Mammarie;SublimeLine;MESMO;Même;Basso;15724-110;90;90;26;54;54;110
+Protesi Mammarie;SublimeLine;MESMO;Même;Basso;15724-125;95;95;27;57;57;125
+Protesi Mammarie;SublimeLine;MESMO;Même;Basso;15724-150;100;100;28;60;60;150
+Protesi Mammarie;SublimeLine;MESMO;Même;Basso;15724-165;105;105;29;62;62;165
+Protesi Mammarie;SublimeLine;MESMO;Même;Basso;15724-185;110;110;29;65;65;185
+Protesi Mammarie;SublimeLine;MESMO;Même;Basso;15724-215;115;115;30;68;68;215
+Protesi Mammarie;SublimeLine;MESMO;Même;Basso;15724-235;120;120;31;71;71;235
+Protesi Mammarie;SublimeLine;MESMO;Même;Basso;15724-270;125;125;32;73;73;270
+Protesi Mammarie;SublimeLine;MESMO;Même;Basso;15724-295;130;130;33;76;76;295
+Protesi Mammarie;SublimeLine;MESMO;Même;Basso;15724-330;135;135;34;79;79;330
+Protesi Mammarie;SublimeLine;MESMO;Même;Moderato;15725-105;80;80;31;53;53;105
+Protesi Mammarie;SublimeLine;MESMO;Même;Moderato;15725-120;85;85;32;56;56;120
+Protesi Mammarie;SublimeLine;MESMO;Même;Moderato;15725-145;90;90;33;59;59;145
+Protesi Mammarie;SublimeLine;MESMO;Même;Moderato;15725-165;95;95;35;62;62;165
+Protesi Mammarie;SublimeLine;MESMO;Même;Moderato;15725-195;100;100;36;65;65;195
+Protesi Mammarie;SublimeLine;MESMO;Même;Moderato;15725-220;105;105;37;68;68;220
+Protesi Mammarie;SublimeLine;MESMO;Même;Moderato;15725-255;110;110;38;71;71;255
+Protesi Mammarie;SublimeLine;MESMO;Même;Moderato;15725-285;115;115;40;74;74;285
+Protesi Mammarie;SublimeLine;MESMO;Même;Moderato;15725-300;118;118;40;75;75;300
+Protesi Mammarie;SublimeLine;MESMO;Même;Moderato;15725-320;120;120;41;77;77;320
+Protesi Mammarie;SublimeLine;MESMO;Même;Moderato;15725-360;125;125;43;80;80;360
+Protesi Mammarie;SublimeLine;MESMO;Même;Moderato;15725-400;130;130;44;83;83;400
+Protesi Mammarie;SublimeLine;MESMO;Même;Moderato;15725-445;135;135;45;86;86;445
+Protesi Mammarie;SublimeLine;MESMO;Même;Moderato;15725-495;140;140;47;89;89;495
+Protesi Mammarie;SublimeLine;MESMO;Même;Moderato;15725-545;145;145;48;92;92;545
+Protesi Mammarie;SublimeLine;MESMO;Même;Moderato;15725-600;150;150;49;95;95;600
+Protesi Mammarie;SublimeLine;MESMO;Même;Alto;15726-125;80;80;37;58;58;125
+Protesi Mammarie;SublimeLine;MESMO;Même;Alto;15726-155;85;85;39;61;61;155
+Protesi Mammarie;SublimeLine;MESMO;Même;Alto;15726-180;90;90;40;64;64;180
+Protesi Mammarie;SublimeLine;MESMO;Même;Alto;15726-210;95;95;42;67;67;210
+Protesi Mammarie;SublimeLine;MESMO;Même;Alto;15726-235;100;100;44;71;71;235
+Protesi Mammarie;SublimeLine;MESMO;Même;Alto;15726-255;103;103;45;72;72;255
+Protesi Mammarie;SublimeLine;MESMO;Même;Alto;15726-275;105;105;45;74;74;275
+Protesi Mammarie;SublimeLine;MESMO;Même;Alto;15726-295;108;108;46;75;75;295
+Protesi Mammarie;SublimeLine;MESMO;Même;Alto;15726-315;110;110;47;77;77;315
+Protesi Mammarie;SublimeLine;MESMO;Même;Alto;15726-335;113;113;48;79;79;335
+Protesi Mammarie;SublimeLine;MESMO;Même;Alto;15726-360;115;115;49;80;80;360
+Protesi Mammarie;SublimeLine;MESMO;Même;Alto;15726-400;120;120;51;83;83;400
+Protesi Mammarie;SublimeLine;MESMO;Même;Alto;15726-450;125;125;53;87;87;450
+Protesi Mammarie;SublimeLine;MESMO;Même;Alto;15726-505;130;130;55;90;90;505
+Protesi Mammarie;SublimeLine;MESMO;Même;Alto;15726-560;135;135;57;93;93;560
+Protesi Mammarie;SublimeLine;MESMO;Même;Alto;15726-620;140;140;59;96;96;620
+Protesi Mammarie;SublimeLine;MESMO;Même;Alto;15726-690;145;145;61;100;100;690
+Protesi Mammarie;SublimeLine;MESMO;Même;Extra Alto;15727-155;80;80;45;62;62;155
+Protesi Mammarie;SublimeLine;MESMO;Même;Extra Alto;15727-180;85;85;47;66;66;180
+Protesi Mammarie;SublimeLine;MESMO;Même;Extra Alto;15727-215;90;90;49;69;69;215
+Protesi Mammarie;SublimeLine;MESMO;Même;Extra Alto;15727-250;95;95;51;73;73;250
+Protesi Mammarie;SublimeLine;MESMO;Même;Extra Alto;15727-285;100;100;53;77;77;285
+Protesi Mammarie;SublimeLine;MESMO;Même;Extra Alto;15727-305;103;103;54;78;78;305
+Protesi Mammarie;SublimeLine;MESMO;Même;Extra Alto;15727-330;105;105;55;80;80;330
+Protesi Mammarie;SublimeLine;MESMO;Même;Extra Alto;15727-355;108;108;56;82;82;355
+Protesi Mammarie;SublimeLine;MESMO;Même;Extra Alto;15727-380;110;110;57;84;84;380
+Protesi Mammarie;SublimeLine;MESMO;Même;Extra Alto;15727-430;115;115;59;87;87;430
+Protesi Mammarie;SublimeLine;MESMO;Même;Extra Alto;15727-485;120;120;61;91;91;485
+Protesi Mammarie;SublimeLine;MESMO;Même;Extra Alto;15727-545;125;125;63;94;94;545
+Protesi Mammarie;SublimeLine;MESMO;Même;Extra Alto;15727-610;130;130;65;98;98;610
+Protesi Mammarie;SublimeLine;MESMO;Même;Extra Alto;15727-675;135;135;67;101;101;675
+Protesi Mammarie;SublimeLine;MESMO;Replicon;Basso;15734-165;110;110;29;48;68;165
+Protesi Mammarie;SublimeLine;MESMO;Replicon;Basso;15734-185;115;115;30;50;71;185
+Protesi Mammarie;SublimeLine;MESMO;Replicon;Basso;15734-210;120;120;31;52;74;210
+Protesi Mammarie;SublimeLine;MESMO;Replicon;Basso;15734-235;125;125;32;54;77;235
+Protesi Mammarie;SublimeLine;MESMO;Replicon;Basso;15734-265;130;130;33;56;80;265
+Protesi Mammarie;SublimeLine;MESMO;Replicon;Basso;15734-290;135;135;34;58;83;290
+Protesi Mammarie;SublimeLine;MESMO;Replicon;Basso;15734-320;140;140;35;59;86;320
+Protesi Mammarie;SublimeLine;MESMO;Replicon;Moderato;15735-110;85;85;32;44;60;110
+Protesi Mammarie;SublimeLine;MESMO;Replicon;Moderato;15735-125;90;90;33;46;63;125
+Protesi Mammarie;SublimeLine;MESMO;Replicon;Moderato;15735-150;95;95;35;48;66;150
+Protesi Mammarie;SublimeLine;MESMO;Replicon;Moderato;15735-170;100;100;36;50;69;170
+Protesi Mammarie;SublimeLine;MESMO;Replicon;Moderato;15735-195;105;105;37;52;72;195
+Protesi Mammarie;SublimeLine;MESMO;Replicon;Moderato;15735-220;110;110;38;55;75;220
+Protesi Mammarie;SublimeLine;MESMO;Replicon;Moderato;15735-255;115;115;40;57;78;255
+Protesi Mammarie;SublimeLine;MESMO;Replicon;Moderato;15735-280;120;120;41;59;82;280
+Protesi Mammarie;SublimeLine;MESMO;Replicon;Moderato;15735-320;125;125;43;61;85;320
+Protesi Mammarie;SublimeLine;MESMO;Replicon;Moderato;15735-350;130;130;44;63;88;350
+Protesi Mammarie;SublimeLine;MESMO;Replicon;Moderato;15735-390;135;135;45;66;91;390
+Protesi Mammarie;SublimeLine;MESMO;Replicon;Moderato;15735-435;140;140;47;68;94;435
+Protesi Mammarie;SublimeLine;MESMO;Replicon;Moderato;15735-480;145;145;48;70;97;480
+Protesi Mammarie;SublimeLine;MESMO;Replicon;Moderato;15735-530;150;150;49;72;100;530
+Protesi Mammarie;SublimeLine;MESMO;Replicon;Moderato;15735-580;155;155;51;74;103;580
+Protesi Mammarie;SublimeLine;MESMO;Replicon;Alto;15736-160;90;90;40;52;69;160
+Protesi Mammarie;SublimeLine;MESMO;Replicon;Alto;15736-180;95;95;42;54;72;180
+Protesi Mammarie;SublimeLine;MESMO;Replicon;Alto;15736-210;100;100;44;57;76;210
+Protesi Mammarie;SublimeLine;MESMO;Replicon;Alto;15736-240;105;105;45;59;79;240
+Protesi Mammarie;SublimeLine;MESMO;Replicon;Alto;15736-275;110;110;47;62;83;275
+Protesi Mammarie;SublimeLine;MESMO;Replicon;Alto;15736-315;115;115;49;64;86;315
+Protesi Mammarie;SublimeLine;MESMO;Replicon;Alto;15736-350;120;120;51;67;89;350
+Protesi Mammarie;SublimeLine;MESMO;Replicon;Alto;15736-395;125;125;53;69;93;395
+Protesi Mammarie;SublimeLine;MESMO;Replicon;Alto;15736-445;130;130;55;72;96;445
+Protesi Mammarie;SublimeLine;MESMO;Replicon;Alto;15736-495;135;135;57;74;100;495
+Protesi Mammarie;SublimeLine;MESMO;Replicon;Alto;15736-550;140;140;59;77;103;550
+Protesi Mammarie;SublimeLine;MESMO;Replicon;Alto;15736-605;145;145;61;79;107;605
+Protesi Mammarie;SublimeLine;MESMO;Replicon;Alto;15736-670;150;150;62;82;110;670
+Protesi Mammarie;SublimeLine;MESMO;Replicon;Extra Alto;15737-185;90;90;49;58;75;185
+Protesi Mammarie;SublimeLine;MESMO;Replicon;Extra Alto;15737-220;95;95;51;61;79;220
+Protesi Mammarie;SublimeLine;MESMO;Replicon;Extra Alto;15737-255;100;100;53;63;83;255
+Protesi Mammarie;SublimeLine;MESMO;Replicon;Extra Alto;15737-290;105;105;55;66;87;290
+Protesi Mammarie;SublimeLine;MESMO;Replicon;Extra Alto;15737-330;110;110;57;69;90;330
+Protesi Mammarie;SublimeLine;MESMO;Replicon;Extra Alto;15737-380;115;115;59;72;94;380
+Protesi Mammarie;SublimeLine;MESMO;Replicon;Extra Alto;15737-425;120;120;61;75;98;425
+Protesi Mammarie;SublimeLine;MESMO;Replicon;Extra Alto;15737-480;125;125;63;78;102;480
+Protesi Mammarie;SublimeLine;MESMO;Replicon;Extra Alto;15737-535;130;130;65;80;105;535
+Protesi Mammarie;SublimeLine;MESMO;Replicon;Extra Alto;15737-600;135;135;67;83;109;600
+Protesi Mammarie;SublimeLine;MESMO;Replicon;Extra Alto;15737-665;140;140;69;86;113;665
+Protesi Mammarie;SublimeLine;MESMO;Replicon;Extra Alto;15737-730;145;145;71;89;117;730
+Protesi Mammarie;SublimeLine;MESMO;Opticon Plus;Moderato;15755-205;110;101;39;54;72;205
+Protesi Mammarie;SublimeLine;MESMO;Opticon Plus;Moderato;15755-230;115;106;41;56;75;230
+Protesi Mammarie;SublimeLine;MESMO;Opticon Plus;Moderato;15755-260;120;110;42;58;77;260
+Protesi Mammarie;SublimeLine;MESMO;Opticon Plus;Moderato;15755-290;125;115;43;60;80;290
+Protesi Mammarie;SublimeLine;MESMO;Opticon Plus;Moderato;15755-325;130;120;44;62;83;325
+Protesi Mammarie;SublimeLine;MESMO;Opticon Plus;Moderato;15755-365;135;124;46;64;86;365
+Protesi Mammarie;SublimeLine;MESMO;Opticon Plus;Moderato;15755-400;140;129;47;67;89;400
+Protesi Mammarie;SublimeLine;MESMO;Opticon Plus;Moderato;15755-440;145;133;48;69;92;440
+Protesi Mammarie;SublimeLine;MESMO;Opticon Plus;Moderato;15755-485;150;138;49;71;95;485
+Protesi Mammarie;SublimeLine;MESMO;Opticon Plus;Moderato;15755-535;155;143;51;73;98;535
+Protesi Mammarie;SublimeLine;MESMO;Opticon Plus;Alto;15756-255;110;101;48;61;79;255
+Protesi Mammarie;SublimeLine;MESMO;Opticon Plus;Alto;15756-285;115;106;50;63;82;285
+Protesi Mammarie;SublimeLine;MESMO;Opticon Plus;Alto;15756-325;120;110;51;66;86;325
+Protesi Mammarie;SublimeLine;MESMO;Opticon Plus;Alto;15756-365;125;115;53;68;89;365
+Protesi Mammarie;SublimeLine;MESMO;Opticon Plus;Alto;15756-405;130;120;55;71;92;405
+Protesi Mammarie;SublimeLine;MESMO;Opticon Plus;Alto;15756-455;135;124;56;73;96;455
+Protesi Mammarie;SublimeLine;MESMO;Opticon Plus;Alto;15756-505;140;129;58;76;99;505
+Protesi Mammarie;SublimeLine;MESMO;Opticon Plus;Alto;15756-555;145;133;60;78;102;555
+Protesi Mammarie;SublimeLine;MESMO;Opticon Plus;Alto;15756-615;150;138;61;81;106;615
+Protesi Mammarie;SublimeLine;MESMO;Opticon Plus;Extra Alto;15757-230;100;92;53;63;80;230
+Protesi Mammarie;SublimeLine;MESMO;Opticon Plus;Extra Alto;15757-270;105;97;55;66;83;270
+Protesi Mammarie;SublimeLine;MESMO;Opticon Plus;Extra Alto;15757-310;110;101;57;69;87;310
+Protesi Mammarie;SublimeLine;MESMO;Opticon Plus;Extra Alto;15757-345;115;106;59;71;91;345
+Protesi Mammarie;SublimeLine;MESMO;Opticon Plus;Extra Alto;15757-390;120;110;61;74;94;390
+Protesi Mammarie;SublimeLine;MESMO;Opticon Plus;Extra Alto;15757-440;125;115;63;77;98;440
+Protesi Mammarie;SublimeLine;MESMO;Opticon Plus;Extra Alto;15757-495;130;120;65;80;102;495
+Protesi Mammarie;SublimeLine;MESMO;Opticon Plus;Extra Alto;15757-550;135;124;67;83;105;550
+Protesi Mammarie;SublimeLine;MESMO;Opticon Plus;Extra Alto;15757-610;140;129;69;85;109;610
+Protesi Mammarie;SublimeLine;MESMO;Opticon;Basso;15744-140;110;92;29;44;60;140
+Protesi Mammarie;SublimeLine;MESMO;Opticon;Basso;15744-160;115;97;30;46;62;160
+Protesi Mammarie;SublimeLine;MESMO;Opticon;Basso;15744-175;120;101;31;48;65;175
+Protesi Mammarie;SublimeLine;MESMO;Opticon;Basso;15744-200;125;105;32;49;67;200
+Protesi Mammarie;SublimeLine;MESMO;Opticon;Basso;15744-220;130;109;33;51;70;220
+Protesi Mammarie;SublimeLine;MESMO;Opticon;Basso;15744-240;135;113;34;53;72;240
+Protesi Mammarie;SublimeLine;MESMO;Opticon;Basso;15744-270;140;118;35;55;75;270
+Protesi Mammarie;SublimeLine;MESMO;Opticon;Moderato;15745-125;95;80;35;45;59;125
+Protesi Mammarie;SublimeLine;MESMO;Opticon;Moderato;15745-145;100;84;36;47;61;145
+Protesi Mammarie;SublimeLine;MESMO;Opticon;Moderato;15745-165;105;88;37;49;64;165
+Protesi Mammarie;SublimeLine;MESMO;Opticon;Moderato;15745-185;110;92;38;51;67;185
+Protesi Mammarie;SublimeLine;MESMO;Opticon;Moderato;15745-210;115;97;40;53;70;210
+Protesi Mammarie;SublimeLine;MESMO;Opticon;Moderato;15745-235;120;101;41;55;72;235
+Protesi Mammarie;SublimeLine;MESMO;Opticon;Moderato;15745-265;125;105;43;57;75;265
+Protesi Mammarie;SublimeLine;MESMO;Opticon;Moderato;15745-295;130;109;44;59;78;295
+Protesi Mammarie;SublimeLine;MESMO;Opticon;Moderato;15745-330;135;113;45;61;81;330
+Protesi Mammarie;SublimeLine;MESMO;Opticon;Moderato;15745-365;140;118;47;63;83;365
+Protesi Mammarie;SublimeLine;MESMO;Opticon;Moderato;15745-400;145;122;48;65;86;400
+Protesi Mammarie;SublimeLine;MESMO;Opticon;Moderato;15745-445;150;126;49;67;89;445
+Protesi Mammarie;SublimeLine;MESMO;Opticon;Moderato;15745-490;155;130;51;69;92;490
+Protesi Mammarie;SublimeLine;MESMO;Opticon;Alto;15746-130;90;76;40;49;62;130
+Protesi Mammarie;SublimeLine;MESMO;Opticon;Alto;15746-155;95;80;42;51;65;155
+Protesi Mammarie;SublimeLine;MESMO;Opticon;Alto;15746-175;100;84;44;54;68;175
+Protesi Mammarie;SublimeLine;MESMO;Opticon;Alto;15746-205;105;88;45;56;71;205
+Protesi Mammarie;SublimeLine;MESMO;Opticon;Alto;15746-230;110;92;47;58;75;230
+Protesi Mammarie;SublimeLine;MESMO;Opticon;Alto;15746-265;115;97;49;61;78;265
+Protesi Mammarie;SublimeLine;MESMO;Opticon;Alto;15746-295;120;101;51;63;81;295
+Protesi Mammarie;SublimeLine;MESMO;Opticon;Alto;15746-335;125;105;53;65;84;335
+Protesi Mammarie;SublimeLine;MESMO;Opticon;Alto;15746-375;130;109;55;68;87;375
+Protesi Mammarie;SublimeLine;MESMO;Opticon;Alto;15746-420;135;113;57;70;90;420
+Protesi Mammarie;SublimeLine;MESMO;Opticon;Alto;15746-460;140;118;59;72;93;460
+Protesi Mammarie;SublimeLine;MESMO;Opticon;Alto;15746-510;145;122;61;75;96;510
+Protesi Mammarie;SublimeLine;MESMO;Opticon;Alto;15746-560;150;126;62;77;99;560
+Protesi Mammarie;SublimeLine;MESMO;Opticon;Alto;15746-615;155;130;64;80;102;615
+Protesi Mammarie;SublimeLine;MESMO;Opticon;Extra Alto;15747-215;100;84;53;61;76;215
+Protesi Mammarie;SublimeLine;MESMO;Opticon;Extra Alto;15747-240;105;88;55;63;79;240
+Protesi Mammarie;SublimeLine;MESMO;Opticon;Extra Alto;15747-280;110;92;57;66;82;280
+Protesi Mammarie;SublimeLine;MESMO;Opticon;Extra Alto;15747-320;115;97;59;69;86;320
+Protesi Mammarie;SublimeLine;MESMO;Opticon;Extra Alto;15747-360;120;101;61;71;89;360
+Protesi Mammarie;SublimeLine;MESMO;Opticon;Extra Alto;15747-400;125;105;63;74;93;400
+Protesi Mammarie;SublimeLine;MESMO;Opticon;Extra Alto;15747-450;130;109;65;77;96;450
+Protesi Mammarie;SublimeLine;MESMO;Opticon;Extra Alto;15747-500;135;113;67;79;100;500
+Protesi Mammarie;SublimeLine;MESMO;Opticon;Extra Alto;15747-560;140;118;69;82;103;560
+Protesi Mammarie;SublimeLine;MESMO;Opticon;Extra Alto;15747-615;145;122;71;85;106;615
+Protesi Mammarie;SublimeLine;MESMO;Opticon;Extra Alto;15747-680;150;126;73;87;110;680
+Protesi Mammarie;SublimeLine;MESMO;Opticon;Extra Alto;15747-750;155;130;75;90;113;750
+Protesi Mammarie;SublimeLine;POLYtxt;Replicon;Basso;20734-125;100;100;28;44;63;125
+Protesi Mammarie;SublimeLine;POLYtxt;Replicon;Basso;20734-150;105;105;29;46;66;150
+Protesi Mammarie;SublimeLine;POLYtxt;Replicon;Basso;20734-165;110;110;29;48;68;165
+Protesi Mammarie;SublimeLine;POLYtxt;Replicon;Basso;20734-185;115;115;30;50;71;185
+Protesi Mammarie;SublimeLine;POLYtxt;Replicon;Basso;20734-210;120;120;31;52;74;210
+Protesi Mammarie;SublimeLine;POLYtxt;Replicon;Basso;20734-235;125;125;32;54;77;235
+Protesi Mammarie;SublimeLine;POLYtxt;Replicon;Basso;20734-265;130;130;33;56;80;265
+Protesi Mammarie;SublimeLine;POLYtxt;Replicon;Basso;20734-290;135;135;34;58;83;290
+Protesi Mammarie;SublimeLine;POLYtxt;Replicon;Basso;20734-320;140;140;35;59;86;320
+Protesi Mammarie;SublimeLine;POLYtxt;Replicon;Basso;20734-350;145;145;35;61;88;350
+Protesi Mammarie;SublimeLine;POLYtxt;Replicon;Basso;20734-390;150;150;36;63;91;390
+Protesi Mammarie;SublimeLine;POLYtxt;Replicon;Moderato;20735-110;85;85;32;44;60;110
+Protesi Mammarie;SublimeLine;POLYtxt;Replicon;Moderato;20735-125;90;90;33;46;63;125
+Protesi Mammarie;SublimeLine;POLYtxt;Replicon;Moderato;20735-150;95;95;35;48;66;150
+Protesi Mammarie;SublimeLine;POLYtxt;Replicon;Moderato;20735-170;100;100;36;50;69;170
+Protesi Mammarie;SublimeLine;POLYtxt;Replicon;Moderato;20735-195;105;105;37;52;72;195
+Protesi Mammarie;SublimeLine;POLYtxt;Replicon;Moderato;20735-220;110;110;38;55;75;220
+Protesi Mammarie;SublimeLine;POLYtxt;Replicon;Moderato;20735-255;115;115;40;57;78;255
+Protesi Mammarie;SublimeLine;POLYtxt;Replicon;Moderato;20735-280;120;120;41;59;82;280
+Protesi Mammarie;SublimeLine;POLYtxt;Replicon;Moderato;20735-320;125;125;43;61;85;320
+Protesi Mammarie;SublimeLine;POLYtxt;Replicon;Moderato;20735-350;130;130;44;63;88;350
+Protesi Mammarie;SublimeLine;POLYtxt;Replicon;Moderato;20735-390;135;135;45;66;91;390
+Protesi Mammarie;SublimeLine;POLYtxt;Replicon;Moderato;20735-435;140;140;47;68;94;435
+Protesi Mammarie;SublimeLine;POLYtxt;Replicon;Moderato;20735-480;145;145;48;70;97;480
+Protesi Mammarie;SublimeLine;POLYtxt;Replicon;Moderato;20735-530;150;150;49;72;100;530
+Protesi Mammarie;SublimeLine;POLYtxt;Replicon;Alto;20736-130;85;85;39;49;65;130
+Protesi Mammarie;SublimeLine;POLYtxt;Replicon;Alto;20736-160;90;90;40;52;69;160
+Protesi Mammarie;SublimeLine;POLYtxt;Replicon;Alto;20736-180;95;95;42;54;72;180
+Protesi Mammarie;SublimeLine;POLYtxt;Replicon;Alto;20736-210;100;100;44;57;76;210
+Protesi Mammarie;SublimeLine;POLYtxt;Replicon;Alto;20736-240;105;105;45;59;79;240
+Protesi Mammarie;SublimeLine;POLYtxt;Replicon;Alto;20736-275;110;110;47;62;83;275
+Protesi Mammarie;SublimeLine;POLYtxt;Replicon;Alto;20736-315;115;115;49;64;86;315
+Protesi Mammarie;SublimeLine;POLYtxt;Replicon;Alto;20736-350;120;120;51;67;89;350
+Protesi Mammarie;SublimeLine;POLYtxt;Replicon;Alto;20736-395;125;125;53;69;93;395
+Protesi Mammarie;SublimeLine;POLYtxt;Replicon;Alto;20736-445;130;130;55;72;96;445
+Protesi Mammarie;SublimeLine;POLYtxt;Replicon;Alto;20736-495;135;135;57;74;100;495
+Protesi Mammarie;SublimeLine;POLYtxt;Replicon;Alto;20736-550;140;140;59;77;103;550
+Protesi Mammarie;SublimeLine;POLYtxt;Replicon;Alto;20736-605;145;145;61;79;107;605
+Protesi Mammarie;SublimeLine;POLYtxt;Replicon;Alto;20736-670;150;150;62;82;110;670
+Protesi Mammarie;SublimeLine;POLYtxt;Replicon;Extra Alto;20737-220;95;95;51;61;79;220
+Protesi Mammarie;SublimeLine;POLYtxt;Replicon;Extra Alto;20737-255;100;100;53;63;83;255
+Protesi Mammarie;SublimeLine;POLYtxt;Replicon;Extra Alto;20737-290;105;105;55;66;87;290
+Protesi Mammarie;SublimeLine;POLYtxt;Replicon;Extra Alto;20737-330;110;110;57;69;90;330
+Protesi Mammarie;SublimeLine;POLYtxt;Replicon;Extra Alto;20737-380;115;115;59;72;94;380
+Protesi Mammarie;SublimeLine;POLYtxt;Replicon;Extra Alto;20737-425;120;120;61;75;98;425
+Protesi Mammarie;SublimeLine;POLYtxt;Replicon;Extra Alto;20737-480;125;125;63;78;102;480
+Protesi Mammarie;SublimeLine;POLYtxt;Replicon;Extra Alto;20737-535;130;130;65;80;105;535
+Protesi Mammarie;SublimeLine;POLYtxt;Replicon;Extra Alto;20737-600;135;135;67;83;109;600
+Protesi Mammarie;SublimeLine;POLYtxt;Replicon;Extra Alto;20737-665;140;140;69;86;113;665
+Protesi Mammarie;SublimeLine;POLYtxt;Replicon;Extra Alto;20737-730;145;145;71;89;117;730
+Protesi Mammarie;SublimeLine;POLYtxt;Opticon;Basso;20744-110;100;84;28;41;55;110
+Protesi Mammarie;SublimeLine;POLYtxt;Opticon;Basso;20744-120;105;88;29;42;57;120
+Protesi Mammarie;SublimeLine;POLYtxt;Opticon;Basso;20744-140;110;92;29;44;60;140
+Protesi Mammarie;SublimeLine;POLYtxt;Opticon;Basso;20744-160;115;97;30;46;62;160
+Protesi Mammarie;SublimeLine;POLYtxt;Opticon;Basso;20744-175;120;101;31;48;65;175
+Protesi Mammarie;SublimeLine;POLYtxt;Opticon;Basso;20744-200;125;105;32;49;67;200
+Protesi Mammarie;SublimeLine;POLYtxt;Opticon;Basso;20744-220;130;109;33;51;70;220
+Protesi Mammarie;SublimeLine;POLYtxt;Opticon;Basso;20744-240;135;113;34;53;72;240
+Protesi Mammarie;SublimeLine;POLYtxt;Opticon;Basso;20744-270;140;118;35;55;75;270
+Protesi Mammarie;SublimeLine;POLYtxt;Opticon;Basso;20744-295;145;122;35;56;77;295
+Protesi Mammarie;SublimeLine;POLYtxt;Opticon;Basso;20744-325;150;126;36;58;80;325
+Protesi Mammarie;SublimeLine;POLYtxt;Opticon;Basso;20744-360;155;130;37;60;82;360
+Protesi Mammarie;SublimeLine;POLYtxt;Opticon;Moderato;20745-125;95;80;35;45;59;125
+Protesi Mammarie;SublimeLine;POLYtxt;Opticon;Moderato;20745-145;100;84;36;47;61;145
+Protesi Mammarie;SublimeLine;POLYtxt;Opticon;Moderato;20745-165;105;88;37;49;64;165
+Protesi Mammarie;SublimeLine;POLYtxt;Opticon;Moderato;20745-185;110;92;38;51;67;185
+Protesi Mammarie;SublimeLine;POLYtxt;Opticon;Moderato;20745-210;115;97;40;53;70;210
+Protesi Mammarie;SublimeLine;POLYtxt;Opticon;Moderato;20745-235;120;101;41;55;72;235
+Protesi Mammarie;SublimeLine;POLYtxt;Opticon;Moderato;20745-265;125;105;43;57;75;265
+Protesi Mammarie;SublimeLine;POLYtxt;Opticon;Moderato;20745-295;130;109;44;59;78;295
+Protesi Mammarie;SublimeLine;POLYtxt;Opticon;Moderato;20745-330;135;113;45;61;81;330
+Protesi Mammarie;SublimeLine;POLYtxt;Opticon;Moderato;20745-365;140;118;47;63;83;365
+Protesi Mammarie;SublimeLine;POLYtxt;Opticon;Moderato;20745-400;145;122;48;65;86;400
+Protesi Mammarie;SublimeLine;POLYtxt;Opticon;Moderato;20745-445;150;126;49;67;89;445
+Protesi Mammarie;SublimeLine;POLYtxt;Opticon;Moderato;20745-490;155;130;51;69;92;490
+Protesi Mammarie;SublimeLine;POLYtxt;Opticon;Alto;20746-130;90;76;40;49;62;130
+Protesi Mammarie;SublimeLine;POLYtxt;Opticon;Alto;20746-155;95;80;42;51;65;155
+Protesi Mammarie;SublimeLine;POLYtxt;Opticon;Alto;20746-175;100;84;44;54;68;175
+Protesi Mammarie;SublimeLine;POLYtxt;Opticon;Alto;20746-205;105;88;45;56;71;205
+Protesi Mammarie;SublimeLine;POLYtxt;Opticon;Alto;20746-230;110;92;47;58;75;230
+Protesi Mammarie;SublimeLine;POLYtxt;Opticon;Alto;20746-265;115;97;49;61;78;265
+Protesi Mammarie;SublimeLine;POLYtxt;Opticon;Alto;20746-295;120;101;51;63;81;295
+Protesi Mammarie;SublimeLine;POLYtxt;Opticon;Alto;20746-335;125;105;53;65;84;335
+Protesi Mammarie;SublimeLine;POLYtxt;Opticon;Alto;20746-375;130;109;55;68;87;375
+Protesi Mammarie;SublimeLine;POLYtxt;Opticon;Alto;20746-420;135;113;57;70;90;420
+Protesi Mammarie;SublimeLine;POLYtxt;Opticon;Alto;20746-460;140;118;59;72;93;460
+Protesi Mammarie;SublimeLine;POLYtxt;Opticon;Alto;20746-510;145;122;61;75;96;510
+Protesi Mammarie;SublimeLine;POLYtxt;Opticon;Alto;20746-560;150;126;62;77;99;560
+Protesi Mammarie;SublimeLine;POLYtxt;Opticon;Alto;20746-615;155;130;64;80;102;615
+Protesi Mammarie;SublimeLine;POLYtxt;Opticon;Extra Alto;20747-215;100;84;53;61;76;215
+Protesi Mammarie;SublimeLine;POLYtxt;Opticon;Extra Alto;20747-240;105;88;55;63;79;240
+Protesi Mammarie;SublimeLine;POLYtxt;Opticon;Extra Alto;20747-280;110;92;57;66;82;280
+Protesi Mammarie;SublimeLine;POLYtxt;Opticon;Extra Alto;20747-320;115;97;59;69;86;320
+Protesi Mammarie;SublimeLine;POLYtxt;Opticon;Extra Alto;20747-360;120;101;61;71;89;360
+Protesi Mammarie;SublimeLine;POLYtxt;Opticon;Extra Alto;20747-400;125;105;63;74;93;400
+Protesi Mammarie;SublimeLine;POLYtxt;Opticon;Extra Alto;20747-450;130;109;65;77;96;450
+Protesi Mammarie;SublimeLine;POLYtxt;Opticon;Extra Alto;20747-500;135;113;67;79;100;500
+Protesi Mammarie;SublimeLine;POLYtxt;Opticon;Extra Alto;20747-560;140;118;69;82;103;560
+Protesi Mammarie;SublimeLine;POLYtxt;Opticon;Extra Alto;20747-615;145;122;71;85;106;615
+Protesi Mammarie;SublimeLine;POLYtxt;Opticon;Extra Alto;20747-680;150;126;73;87;110;680
+Protesi Mammarie;SublimeLine;POLYtxt;Opticon;Extra Alto;20747-750;155;130;75;90;113;750
+Protesi Mammarie;SublimeLine;Microthane;Même;Basso;30724-110;93;93;28;57;57;110
+Protesi Mammarie;SublimeLine;Microthane;Même;Basso;30724-125;98;98;29;60;60;125
+Protesi Mammarie;SublimeLine;Microthane;Même;Basso;30724-150;103;103;30;62;62;150
+Protesi Mammarie;SublimeLine;Microthane;Même;Basso;30724-165;108;108;31;65;65;165
+Protesi Mammarie;SublimeLine;Microthane;Même;Basso;30724-185;113;113;31;68;68;185
+Protesi Mammarie;SublimeLine;Microthane;Même;Basso;30724-215;118;118;32;71;71;215
+Protesi Mammarie;SublimeLine;Microthane;Même;Basso;30724-235;123;123;33;73;73;235
+Protesi Mammarie;SublimeLine;Microthane;Même;Basso;30724-270;128;128;34;76;76;270
+Protesi Mammarie;SublimeLine;Microthane;Même;Basso;30724-295;133;133;35;79;79;295
+Protesi Mammarie;SublimeLine;Microthane;Même;Basso;30724-330;138;138;36;82;82;330
+Protesi Mammarie;SublimeLine;Microthane;Même;Moderato;30725-120;88;88;34;60;60;120
+Protesi Mammarie;SublimeLine;Microthane;Même;Moderato;30725-145;93;93;35;63;63;145
+Protesi Mammarie;SublimeLine;Microthane;Même;Moderato;30725-165;98;98;37;66;66;165
+Protesi Mammarie;SublimeLine;Microthane;Même;Moderato;30725-195;103;103;38;69;69;195
+Protesi Mammarie;SublimeLine;Microthane;Même;Moderato;30725-220;108;108;39;72;72;220
+Protesi Mammarie;SublimeLine;Microthane;Même;Moderato;30725-255;113;113;40;75;75;255
+Protesi Mammarie;SublimeLine;Microthane;Même;Moderato;30725-285;118;118;42;78;78;285
+Protesi Mammarie;SublimeLine;Microthane;Même;Moderato;30725-300;121;121;42;79;79;300
+Protesi Mammarie;SublimeLine;Microthane;Même;Moderato;30725-320;123;123;43;81;81;320
+Protesi Mammarie;SublimeLine;Microthane;Même;Moderato;30725-360;128;128;45;84;84;360
+Protesi Mammarie;SublimeLine;Microthane;Même;Moderato;30725-400;133;133;46;87;87;400
+Protesi Mammarie;SublimeLine;Microthane;Même;Moderato;30725-445;138;138;47;90;90;445
+Protesi Mammarie;SublimeLine;Microthane;Même;Alto;30726-125;83;83;39;62;62;125
+Protesi Mammarie;SublimeLine;Microthane;Même;Alto;30726-155;88;88;41;65;65;155
+Protesi Mammarie;SublimeLine;Microthane;Même;Alto;30726-180;93;93;42;68;68;180
+Protesi Mammarie;SublimeLine;Microthane;Même;Alto;30726-210;98;98;44;71;71;210
+Protesi Mammarie;SublimeLine;Microthane;Même;Alto;30726-235;103;103;46;75;75;235
+Protesi Mammarie;SublimeLine;Microthane;Même;Alto;30726-255;106;106;47;76;76;255
+Protesi Mammarie;SublimeLine;Microthane;Même;Alto;30726-275;108;108;47;78;78;275
+Protesi Mammarie;SublimeLine;Microthane;Même;Alto;30726-295;111;111;48;79;79;295
+Protesi Mammarie;SublimeLine;Microthane;Même;Alto;30726-315;113;113;49;81;81;315
+Protesi Mammarie;SublimeLine;Microthane;Même;Alto;30726-335;116;116;50;83;83;335
+Protesi Mammarie;SublimeLine;Microthane;Même;Alto;30726-360;118;118;51;84;84;360
+Protesi Mammarie;SublimeLine;Microthane;Même;Alto;30726-400;123;123;53;87;87;400
+Protesi Mammarie;SublimeLine;Microthane;Même;Alto;30726-450;128;128;55;91;91;450
+Protesi Mammarie;SublimeLine;Microthane;Même;Alto;30726-505;133;133;57;94;94;505
+Protesi Mammarie;SublimeLine;Microthane;Même;Alto;30726-560;138;138;59;97;97;560
+Protesi Mammarie;SublimeLine;Microthane;Même;Alto;30726-620;143;143;61;100;100;620
+Protesi Mammarie;SublimeLine;Microthane;Même;Alto;30726-690;148;148;63;104;104;690
+Protesi Mammarie;SublimeLine;Microthane;Même;Extra Alto;30727-155;83;83;47;66;66;155
+Protesi Mammarie;SublimeLine;Microthane;Même;Extra Alto;30727-180;88;88;49;70;70;180
+Protesi Mammarie;SublimeLine;Microthane;Même;Extra Alto;30727-215;93;93;51;73;73;215
+Protesi Mammarie;SublimeLine;Microthane;Même;Extra Alto;30727-250;98;98;53;77;77;250
+Protesi Mammarie;SublimeLine;Microthane;Même;Extra Alto;30727-285;103;103;55;81;81;285
+Protesi Mammarie;SublimeLine;Microthane;Même;Extra Alto;30727-305;106;106;56;82;82;305
+Protesi Mammarie;SublimeLine;Microthane;Même;Extra Alto;30727-330;108;108;57;84;84;330
+Protesi Mammarie;SublimeLine;Microthane;Même;Extra Alto;30727-355;111;111;58;86;86;355
+Protesi Mammarie;SublimeLine;Microthane;Même;Extra Alto;30727-380;113;113;59;88;88;380
+Protesi Mammarie;SublimeLine;Microthane;Même;Extra Alto;30727-430;118;118;61;91;91;430
+Protesi Mammarie;SublimeLine;Microthane;Même;Extra Alto;30727-485;123;123;63;95;95;485
+Protesi Mammarie;SublimeLine;Microthane;Même;Extra Alto;30727-545;128;128;65;98;98;545
+Protesi Mammarie;SublimeLine;Microthane;Même;Extra Alto;30727-610;133;133;67;102;102;610
+Protesi Mammarie;SublimeLine;Microthane;Même;Extra Alto;30727-675;138;138;69;105;105;675
+Protesi Mammarie;SublimeLine;Microthane;Replicon;Basso;30734-165;113;113;31;50;71;165
+Protesi Mammarie;SublimeLine;Microthane;Replicon;Basso;30734-185;118;118;32;52;74;185
+Protesi Mammarie;SublimeLine;Microthane;Replicon;Basso;30734-210;123;123;33;54;77;210
+Protesi Mammarie;SublimeLine;Microthane;Replicon;Basso;30734-235;128;128;34;56;80;235
+Protesi Mammarie;SublimeLine;Microthane;Replicon;Basso;30734-265;133;133;35;58;83;265
+Protesi Mammarie;SublimeLine;Microthane;Replicon;Basso;30734-290;138;138;36;59;86;290
+Protesi Mammarie;SublimeLine;Microthane;Replicon;Basso;30734-320;143;143;37;61;88;320
+Protesi Mammarie;SublimeLine;Microthane;Replicon;Moderato;30735-110;88;88;34;48;63;110
+Protesi Mammarie;SublimeLine;Microthane;Replicon;Moderato;30735-125;93;93;35;50;66;125
+Protesi Mammarie;SublimeLine;Microthane;Replicon;Moderato;30735-150;98;98;37;52;69;150
+Protesi Mammarie;SublimeLine;Microthane;Replicon;Moderato;30735-170;103;103;38;54;72;170
+Protesi Mammarie;SublimeLine;Microthane;Replicon;Moderato;30735-195;108;108;39;56;75;195
+Protesi Mammarie;SublimeLine;Microthane;Replicon;Moderato;30735-220;113;113;40;59;78;220
+Protesi Mammarie;SublimeLine;Microthane;Replicon;Moderato;30735-255;118;118;42;61;82;255
+Protesi Mammarie;SublimeLine;Microthane;Replicon;Moderato;30735-280;123;123;43;63;85;280
+Protesi Mammarie;SublimeLine;Microthane;Replicon;Moderato;30735-320;128;128;45;65;88;320
+Protesi Mammarie;SublimeLine;Microthane;Replicon;Moderato;30735-350;133;133;46;67;91;350
+Protesi Mammarie;SublimeLine;Microthane;Replicon;Moderato;30735-390;138;138;47;70;94;390
+Protesi Mammarie;SublimeLine;Microthane;Replicon;Moderato;30735-435;143;143;49;72;97;435
+Protesi Mammarie;SublimeLine;Microthane;Replicon;Moderato;30735-480;148;148;50;74;100;480
+Protesi Mammarie;SublimeLine;Microthane;Replicon;Moderato;30735-530;153;153;51;76;103;530
+Protesi Mammarie;SublimeLine;Microthane;Replicon;Alto;30736-130;88;88;41;53;69;130
+Protesi Mammarie;SublimeLine;Microthane;Replicon;Alto;30736-160;93;93;42;56;72;160
+Protesi Mammarie;SublimeLine;Microthane;Replicon;Alto;30736-180;98;98;44;58;76;180
+Protesi Mammarie;SublimeLine;Microthane;Replicon;Alto;30736-210;103;103;46;61;79;210
+Protesi Mammarie;SublimeLine;Microthane;Replicon;Alto;30736-240;108;108;47;63;83;240
+Protesi Mammarie;SublimeLine;Microthane;Replicon;Alto;30736-275;113;113;49;66;86;275
+Protesi Mammarie;SublimeLine;Microthane;Replicon;Alto;30736-315;118;118;51;68;89;315
+Protesi Mammarie;SublimeLine;Microthane;Replicon;Alto;30736-350;123;123;53;71;93;350
+Protesi Mammarie;SublimeLine;Microthane;Replicon;Alto;30736-395;128;128;55;73;96;395
+Protesi Mammarie;SublimeLine;Microthane;Replicon;Alto;30736-445;133;133;57;76;100;445
+Protesi Mammarie;SublimeLine;Microthane;Replicon;Alto;30736-495;138;138;59;78;103;495
+Protesi Mammarie;SublimeLine;Microthane;Replicon;Alto;30736-550;143;143;61;81;107;550
+Protesi Mammarie;SublimeLine;Microthane;Replicon;Alto;30736-605;148;148;63;83;110;605
+Protesi Mammarie;SublimeLine;Microthane;Replicon;Alto;30736-670;153;153;64;86;114;670
+Protesi Mammarie;SublimeLine;Microthane;Replicon;Extra Alto;30737-130;83;83;47;56;71;130
+Protesi Mammarie;SublimeLine;Microthane;Replicon;Extra Alto;30737-160;88;88;49;59;75;160
+Protesi Mammarie;SublimeLine;Microthane;Replicon;Extra Alto;30737-185;93;93;51;62;79;185
+Protesi Mammarie;SublimeLine;Microthane;Replicon;Extra Alto;30737-220;98;98;53;65;83;220
+Protesi Mammarie;SublimeLine;Microthane;Replicon;Extra Alto;30737-255;103;103;55;67;87;255
+Protesi Mammarie;SublimeLine;Microthane;Replicon;Extra Alto;30737-290;108;108;57;70;90;290
+Protesi Mammarie;SublimeLine;Microthane;Replicon;Extra Alto;30737-330;113;113;59;73;94;330
+Protesi Mammarie;SublimeLine;Microthane;Replicon;Extra Alto;30737-380;118;118;61;76;98;380
+Protesi Mammarie;SublimeLine;Microthane;Replicon;Extra Alto;30737-425;123;123;63;79;102;425
+Protesi Mammarie;SublimeLine;Microthane;Replicon;Extra Alto;30737-480;128;128;65;82;105;480
+Protesi Mammarie;SublimeLine;Microthane;Replicon;Extra Alto;30737-535;133;133;67;84;109;535
+Protesi Mammarie;SublimeLine;Microthane;Replicon;Extra Alto;30737-600;138;138;69;87;113;600
+Protesi Mammarie;SublimeLine;Microthane;Replicon;Extra Alto;30737-665;143;143;71;90;117;665
+Protesi Mammarie;SublimeLine;Microthane;Replicon;Extra Alto;30737-730;148;148;73;93;121;730
+Protesi Mammarie;SublimeLine;Microthane;Opticon Plus;Moderato;30755-205;113;104;41;56;75;205
+Protesi Mammarie;SublimeLine;Microthane;Opticon Plus;Moderato;30755-230;118;109;43;58;77;230
+Protesi Mammarie;SublimeLine;Microthane;Opticon Plus;Moderato;30755-260;123;113;44;60;80;260
+Protesi Mammarie;SublimeLine;Microthane;Opticon Plus;Moderato;30755-290;128;118;45;62;83;290
+Protesi Mammarie;SublimeLine;Microthane;Opticon Plus;Moderato;30755-325;133;123;46;64;86;325
+Protesi Mammarie;SublimeLine;Microthane;Opticon Plus;Moderato;30755-365;138;127;48;67;89;365
+Protesi Mammarie;SublimeLine;Microthane;Opticon Plus;Moderato;30755-400;143;132;49;69;92;400
+Protesi Mammarie;SublimeLine;Microthane;Opticon Plus;Moderato;30755-440;148;136;50;71;95;440
+Protesi Mammarie;SublimeLine;Microthane;Opticon Plus;Moderato;30755-485;153;141;51;73;98;485
+Protesi Mammarie;SublimeLine;Microthane;Opticon Plus;Moderato;30755-535;158;146;53;75;101;535
+Protesi Mammarie;SublimeLine;Microthane;Opticon Plus;Alto;30756-255;113;104;50;63;82;255
+Protesi Mammarie;SublimeLine;Microthane;Opticon Plus;Alto;30756-285;118;109;52;66;86;285
+Protesi Mammarie;SublimeLine;Microthane;Opticon Plus;Alto;30756-325;123;113;53;68;89;325
+Protesi Mammarie;SublimeLine;Microthane;Opticon Plus;Alto;30756-365;128;118;55;71;92;365
+Protesi Mammarie;SublimeLine;Microthane;Opticon Plus;Alto;30756-405;133;123;57;73;96;405
+Protesi Mammarie;SublimeLine;Microthane;Opticon Plus;Alto;30756-455;138;127;58;76;99;455
+Protesi Mammarie;SublimeLine;Microthane;Opticon Plus;Alto;30756-505;143;132;60;78;102;505
+Protesi Mammarie;SublimeLine;Microthane;Opticon Plus;Alto;30756-555;148;136;62;81;106;555
+Protesi Mammarie;SublimeLine;Microthane;Opticon Plus;Alto;30756-615;153;141;63;83;109;615
+Protesi Mammarie;SublimeLine;Microthane;Opticon Plus;Extra Alto;30757-230;103;95;55;66;83;230
+Protesi Mammarie;SublimeLine;Microthane;Opticon Plus;Extra Alto;30757-270;108;100;57;69;87;270
+Protesi Mammarie;SublimeLine;Microthane;Opticon Plus;Extra Alto;30757-310;113;104;59;71;91;310
+Protesi Mammarie;SublimeLine;Microthane;Opticon Plus;Extra Alto;30757-345;118;109;61;74;94;345
+Protesi Mammarie;SublimeLine;Microthane;Opticon Plus;Extra Alto;30757-390;123;113;63;77;98;390
+Protesi Mammarie;SublimeLine;Microthane;Opticon Plus;Extra Alto;30757-440;128;118;65;80;102;440
+Protesi Mammarie;SublimeLine;Microthane;Opticon Plus;Extra Alto;30757-495;133;123;67;83;105;495
+Protesi Mammarie;SublimeLine;Microthane;Opticon Plus;Extra Alto;30757-550;138;127;69;85;109;550
+Protesi Mammarie;SublimeLine;Microthane;Opticon Plus;Extra Alto;30757-610;143;132;71;88;113;610
+Protesi Mammarie;SublimeLine;Microthane;Opticon;Basso;30744-120;108;91;31;44;60;120
+Protesi Mammarie;SublimeLine;Microthane;Opticon;Basso;30744-140;113;95;31;46;62;140
+Protesi Mammarie;SublimeLine;Microthane;Opticon;Basso;30744-160;118;100;32;48;65;160
+Protesi Mammarie;SublimeLine;Microthane;Opticon;Basso;30744-175;123;104;33;49;67;175
+Protesi Mammarie;SublimeLine;Microthane;Opticon;Basso;30744-200;128;108;34;51;70;200
+Protesi Mammarie;SublimeLine;Microthane;Opticon;Basso;30744-220;133;112;35;53;72;220
+Protesi Mammarie;SublimeLine;Microthane;Opticon;Basso;30744-240;138;116;36;55;75;240
+Protesi Mammarie;SublimeLine;Microthane;Opticon;Basso;30744-270;143;121;37;56;77;270
+Protesi Mammarie;SublimeLine;Microthane;Opticon;Moderato;30745-125;98;83;37;49;61;125
+Protesi Mammarie;SublimeLine;Microthane;Opticon;Moderato;30745-145;103;87;38;51;64;145
+Protesi Mammarie;SublimeLine;Microthane;Opticon;Moderato;30745-165;108;91;39;53;67;165
+Protesi Mammarie;SublimeLine;Microthane;Opticon;Moderato;30745-185;113;95;40;55;70;185
+Protesi Mammarie;SublimeLine;Microthane;Opticon;Moderato;30745-210;118;100;42;57;72;210
+Protesi Mammarie;SublimeLine;Microthane;Opticon;Moderato;30745-235;123;104;43;59;75;235
+Protesi Mammarie;SublimeLine;Microthane;Opticon;Moderato;30745-265;128;108;45;61;78;265
+Protesi Mammarie;SublimeLine;Microthane;Opticon;Moderato;30745-295;133;112;46;63;81;295
+Protesi Mammarie;SublimeLine;Microthane;Opticon;Moderato;30745-330;138;116;47;65;83;330
+Protesi Mammarie;SublimeLine;Microthane;Opticon;Moderato;30745-365;143;121;49;67;86;365
+Protesi Mammarie;SublimeLine;Microthane;Opticon;Moderato;30745-400;148;125;50;69;89;400
+Protesi Mammarie;SublimeLine;Microthane;Opticon;Moderato;30745-445;153;129;51;71;92;445
+Protesi Mammarie;SublimeLine;Microthane;Opticon;Moderato;30745-490;158;133;53;73;95;490
+Protesi Mammarie;SublimeLine;Microthane;Opticon;Alto;30746-130;93;79;42;53;65;130
+Protesi Mammarie;SublimeLine;Microthane;Opticon;Alto;30746-155;98;83;44;55;68;155
+Protesi Mammarie;SublimeLine;Microthane;Opticon;Alto;30746-175;103;87;46;58;71;175
+Protesi Mammarie;SublimeLine;Microthane;Opticon;Alto;30746-205;108;91;47;60;75;205
+Protesi Mammarie;SublimeLine;Microthane;Opticon;Alto;30746-230;113;95;49;62;78;230
+Protesi Mammarie;SublimeLine;Microthane;Opticon;Alto;30746-265;118;100;51;65;81;265
+Protesi Mammarie;SublimeLine;Microthane;Opticon;Alto;30746-295;123;104;53;67;84;295
+Protesi Mammarie;SublimeLine;Microthane;Opticon;Alto;30746-335;128;108;55;69;87;335
+Protesi Mammarie;SublimeLine;Microthane;Opticon;Alto;30746-375;133;112;57;72;90;375
+Protesi Mammarie;SublimeLine;Microthane;Opticon;Alto;30746-420;138;116;59;74;93;420
+Protesi Mammarie;SublimeLine;Microthane;Opticon;Alto;30746-460;143;121;61;76;96;460
+Protesi Mammarie;SublimeLine;Microthane;Opticon;Alto;30746-510;148;125;63;79;99;510
+Protesi Mammarie;SublimeLine;Microthane;Opticon;Alto;30746-560;153;129;64;81;102;560
+Protesi Mammarie;SublimeLine;Microthane;Opticon;Alto;30746-615;158;133;66;84;105;615
+Protesi Mammarie;SublimeLine;Microthane;Opticon;Extra Alto;30747-215;103;87;55;65;79;215
+Protesi Mammarie;SublimeLine;Microthane;Opticon;Extra Alto;30747-240;108;91;57;67;82;240
+Protesi Mammarie;SublimeLine;Microthane;Opticon;Extra Alto;30747-280;113;95;59;70;86;280
+Protesi Mammarie;SublimeLine;Microthane;Opticon;Extra Alto;30747-320;118;100;61;73;89;320
+Protesi Mammarie;SublimeLine;Microthane;Opticon;Extra Alto;30747-360;123;104;63;75;93;360
+Protesi Mammarie;SublimeLine;Microthane;Opticon;Extra Alto;30747-400;128;108;65;78;96;400
+Protesi Mammarie;SublimeLine;Microthane;Opticon;Extra Alto;30747-450;133;112;67;81;100;450
+Protesi Mammarie;SublimeLine;Microthane;Opticon;Extra Alto;30747-500;138;116;69;83;103;500
+Protesi Mammarie;SublimeLine;Microthane;Opticon;Extra Alto;30747-560;143;121;71;86;106;560
+Protesi Mammarie;SublimeLine;Microthane;Opticon;Extra Alto;30747-615;148;125;73;89;110;615
+Protesi Mammarie;SublimeLine;Microthane;Opticon;Extra Alto;30747-680;153;129;75;91;113;680
+Protesi Mammarie;SublimeLine;Microthane;Opticon;Extra Alto;30747-750;158;133;77;94;117;750
+Protesi Mammarie;Diagon\Gel;Microthane;Anatomical Oval;Alto;31641-205;108;98;42;83;83;205
+Protesi Mammarie;Diagon\Gel;Microthane;Anatomical Oval;Alto;31641-235;112;102;44;86;86;235
+Protesi Mammarie;Diagon\Gel;Microthane;Anatomical Oval;Alto;31641-260;116;106;46;90;90;260
+Protesi Mammarie;Diagon\Gel;Microthane;Anatomical Oval;Alto;31641-290;120;110;48;93;93;290
+Protesi Mammarie;Diagon\Gel;Microthane;Anatomical Oval;Alto;31641-320;124;114;50;97;97;320
+Protesi Mammarie;Diagon\Gel;Microthane;Anatomical Oval;Alto;31641-360;128;118;52;100;100;360
+Protesi Mammarie;Diagon\Gel;Microthane;Anatomical Oval;Extra Alto;31642-215;104;94;48;86;86;215
+Protesi Mammarie;Diagon\Gel;Microthane;Anatomical Oval;Extra Alto;31642-245;108;98;50;90;90;245
+Protesi Mammarie;Diagon\Gel;Microthane;Anatomical Oval;Extra Alto;31642-285;112;102;52;93;93;285
+Protesi Mammarie;Diagon\Gel;Microthane;Anatomical Oval;Extra Alto;31642-305;116;106;54;97;97;305
+Protesi Mammarie;Diagon\Gel;Microthane;Anatomical Oval;Extra Alto;31642-335;120;110;56;100;100;335
+Protesi Mammarie;Diagon\Gel;Microthane;Anatomical Oval;Extra Alto;31642-380;124;114;58;104;104;380
+Espansori;Standard;POLYtxt;Replicon (Int. Magnet);Standard;46636-300;126;126;50;-;-;300
+Espansori;Standard;POLYtxt;Replicon (Int. Magnet);Standard;46636-450;141;141;55;-;-;450
+Espansori;Standard;POLYtxt;Replicon (Int. Magnet);Standard;46636-550;151;151;58;-;-;550
+Espansori;Standard;POLYtxt;Opticon Plus (Int. Magnet);Standard;46657-200;106;98;52;-;-;200
+Espansori;Standard;POLYtxt;Opticon Plus (Int. Magnet);Standard;46657-300;121;111;58;-;-;300
+Espansori;Standard;POLYtxt;Opticon Plus (Int. Magnet);Standard;46657-400;131;121;62;-;-;400
+Espansori;Standard;POLYtxt;Opticon Plus (Int. Magnet);Standard;46657-500;141;130;66;-;-;500
+Espansori;Standard;POLYtxt;Opticon Plus (Int. Magnet);Standard;46657-600;151;139;70;-;-;600
+Espansori;Standard;POLYtxt;Opticon Plus (Int. Magnet);Standard;46657-700;156;144;72;-;-;700
+Espansori;Standard;POLYtxt;Opticon (Int. Magnet);Standard;46646-250;126;106;50;-;-;250
+Espansori;Standard;POLYtxt;Opticon (Int. Magnet);Standard;46646-450;151;127;58;-;-;450
+Espansori;Standard;POLYtxt;Même Piccola (Int. Magnet);Standard;40627-200;96;96;48;-;-;200
+Espansori;Standard;POLYtxt;Même Piccola (Int. Magnet);Standard;40627-300;111;111;54;-;-;300
+Espansori;Standard;POLYtxt;Même Piccola (Int. Magnet);Standard;40627-400;121;121;58;-;-;400
+Espansori;Standard;POLYtxt;Même Piccola (Int. Magnet);Standard;40627-500;131;131;62;-;-;500
+Espansori;Standard;POLYtxt;Même Piccola (Int. Magnet);Standard;40627-600;136;136;64;-;-;600
+Espansori;Standard;POLYtxt;Même Piccola (Int. Magnet);Standard;40627-700;146;146;68;-;-;700
+Espansori;Standard;POLYsmoooth;Rettangolare (Int. Magnet);Standard;50680-160;51;38;110;-;-;160
+Espansori;Standard;POLYsmoooth;Rettangolare (Int. Magnet);Standard;50680-200;50;70;60;-;-;200
+Espansori;Standard;POLYsmoooth;Rettangolare (Int. Magnet);Standard;50680-250;59;50;96;-;-;250
+Espansori;Standard;POLYsmoooth;Rettangolare (Int. Magnet);Standard;50680-320;62;47;141;-;-;320
+Espansori;Standard;POLYsmoooth;Rettangolare (Int. Magnet);Standard;50680-400;55;56;136;-;-;400
+Espansori;Standard;POLYsmoooth;Rettangolare (Int. Magnet);Standard;50680-500;69;51;158;-;-;500
+Espansori;Standard;POLYsmoooth;Rettangolare (Int. Magnet);Standard;50680-600;50;70;180;-;-;600
+Espansori;Standard;POLYsmoooth;Rettangolare (Int. Magnet);Standard;50680-700;50;50;280;-;-;700
+Espansori;Standard;POLYsmoooth;Rettangolare (Int. Magnet);Standard;50680-800;87;57;185;-;-;800
+Espansori;Standard;POLYsmoooth;Mezzaluna (Int. Magnet);Standard;50690-200;95;60;45;-;-;200
+Espansori;Standard;POLYsmoooth;Mezzaluna (Int. Magnet);Standard;50690-300;110;70;60;-;-;300
+Espansori;Standard;POLYsmoooth;Mezzaluna (Int. Magnet);Standard;50690-400;125;75;65;-;-;400
+Espansori;Standard;POLYsmoooth;Mezzaluna (Int. Magnet);Standard;50690-700;150;90;75;-;-;700
+Espansori;Standard;POLYtxt;Replicon (Remote);Standard;46637-200;101;101;50;-;-;200
+Espansori;Standard;POLYtxt;Replicon (Remote);Standard;46637-300;116;116;56;-;-;300
+Espansori;Standard;POLYtxt;Replicon (Remote);Standard;46637-400;126;126;60;-;-;400
+Espansori;Standard;POLYtxt;Replicon (Remote);Standard;46637-500;136;136;64;-;-;500
+Espansori;Standard;POLYtxt;Replicon (Remote);Standard;46637-600;146;146;68;-;-;600
+Espansori;Standard;POLYtxt;Replicon (Remote);Standard;46637-700;151;151;70;-;-;700
+Espansori;Standard;POLYtxt;Opticon (Remote);Standard;46647-200;111;93;54;-;-;200
+Espansori;Standard;POLYtxt;Opticon (Remote);Standard;46647-300;126;106;60;-;-;300
+Espansori;Standard;POLYtxt;Opticon (Remote);Standard;46647-350;131;110;62;-;-;350
+Espansori;Standard;POLYtxt;Opticon (Remote);Standard;46647-400;136;114;64;-;-;400
+Espansori;Standard;POLYtxt;Opticon (Remote);Standard;46647-500;146;123;68;-;-;500
+Espansori;Standard;POLYtxt;Opticon (Remote);Standard;46647-550;151;127;70;-;-;550
+Espansori;Standard;POLYtxt;Opticon (Remote);Standard;46647-600;156;131;72;-;-;600
+Espansori;Standard;POLYtxt;Opticon (Remote);Standard;46647-700;161;135;74;-;-;700
+Espansori;Standard;POLYtxt;Même (Remote);Standard;41627-100;76;76;40;-;-;100
+Espansori;Standard;POLYtxt;Même (Remote);Standard;41627-200;96;96;48;-;-;200
+Espansori;Standard;POLYtxt;Même (Remote);Standard;41627-300;111;111;54;-;-;300
+Espansori;Standard;POLYtxt;Même (Remote);Standard;41627-400;121;121;58;-;-;400
+Espansori;Standard;POLYtxt;Même (Remote);Standard;41627-500;131;131;62;-;-;500
+Espansori;Standard;POLYtxt;Même (Remote);Standard;41627-600;136;136;64;-;-;600
+Espansori;Standard;POLYtxt;Même (Remote);Standard;41627-700;146;146;68;-;-;700
+Espansori;Standard;POLYtxt;Même (Remote);Standard;41627-800;151;151;70;-;-;800
+Espansori;Standard;POLYsmoooth;Rettangolare (Remote);Standard;51680-050;38;38;38;-;-;50
+Espansori;Standard;POLYsmoooth;Rettangolare (Remote);Standard;51680-100;46;53;60;-;-;100
+Espansori;Standard;POLYsmoooth;Rettangolare (Remote);Standard;51680-160;51;38;110;-;-;160
+Espansori;Standard;POLYsmoooth;Rettangolare (Remote);Standard;51680-200;50;70;60;-;-;200
+Espansori;Standard;POLYsmoooth;Rettangolare (Remote);Standard;51680-250;59;50;96;-;-;250
+Espansori;Standard;POLYsmoooth;Rettangolare (Remote);Standard;51680-320;62;47;141;-;-;320
+Espansori;Standard;POLYsmoooth;Rettangolare (Remote);Standard;51680-400;55;56;136;-;-;400
+Espansori;Standard;POLYsmoooth;Rettangolare (Remote);Standard;51680-500;69;51;158;-;-;500
+Espansori;Standard;POLYsmoooth;Rettangolare (Remote);Standard;51680-600;50;70;180;-;-;600
+Espansori;Standard;POLYsmoooth;Rettangolare (Remote);Standard;51680-700;50;50;280;-;-;700
+Espansori;Standard;POLYsmoooth;Rettangolare (Remote);Standard;51680-800;87;57;185;-;-;800
+Espansori;Standard;POLYsmoooth;Mezzaluna (Remote);Standard;51690-200;95;60;45;-;-;200
+Espansori;Standard;POLYsmoooth;Mezzaluna (Remote);Standard;51690-300;110;70;60;-;-;300
+Espansori;Standard;POLYsmoooth;Mezzaluna (Remote);Standard;51690-400;125;75;65;-;-;400
+Espansori;Standard;POLYsmoooth;Mezzaluna (Remote);Standard;51690-700;150;90;75;-;-;700
+Altri (Corpo);Glutei;MESMO;Ovali Post. Concavo;Ovale;15300-115;80;120;27;-;-;115
+Altri (Corpo);Glutei;MESMO;Ovali Post. Concavo;Ovale;15300-215;105;142;30;-;-;215
+Altri (Corpo);Glutei;MESMO;Ovali Post. Concavo;Ovale;15300-290;114;152;33;-;-;290
+Altri (Corpo);Glutei;MESMO;Ovali Post. Concavo;Ovale;15300-360;125;163;34;-;-;360
+Altri (Corpo);Glutei;MESMO;Ovali Post. Concavo;Ovale;15300-450;132;174;38;-;-;450
+Altri (Corpo);Glutei;MESMO;Ovali Post. Planare;Ovale;15300-240;90;130;40;-;-;240
+Altri (Corpo);Glutei;MESMO;Ovali Post. Planare;Ovale;15300-305;95;139;45;-;-;305
+Altri (Corpo);Glutei;MESMO;Ovali Post. Planare;Ovale;15300-365;100;148;48;-;-;365
+Altri (Corpo);Glutei;MESMO;Ovali Post. Planare;Ovale;15300-420;109;152;50;-;-;420
+Altri (Corpo);Glutei;POLYsmoooth;Rotonde Post. Concavo;Rotonda;10301-200;107;107;35;-;-;200
+Altri (Corpo);Glutei;POLYsmoooth;Rotonde Post. Concavo;Rotonda;10301-250;112;112;41;-;-;250
+Altri (Corpo);Glutei;POLYsmoooth;Rotonde Post. Concavo;Rotonda;10301-300;118;118;44;-;-;300
+Altri (Corpo);Glutei;POLYsmoooth;Rotonde Post. Concavo;Rotonda;10301-360;127;127;43;-;-;360
+Altri (Corpo);Glutei;POLYsmoooth;Rotonde Post. Concavo;Rotonda;10301-500;141;141;49;-;-;500
+Altri (Corpo);Glutei;POLYsmoooth;Rotonde Post. Planare;Rotonda;10301-225;107;107;35;-;-;225
+Altri (Corpo);Glutei;POLYsmoooth;Rotonde Post. Planare;Rotonda;10301-275;112;112;41;-;-;275
+Altri (Corpo);Glutei;POLYsmoooth;Rotonde Post. Planare;Rotonda;10301-340;118;118;44;-;-;340
+Altri (Corpo);Glutei;POLYsmoooth;Rotonde Post. Planare;Rotonda;10301-390;128;128;44;-;-;390
+Altri (Corpo);Glutei;POLYsmoooth;Rotonde Post. Planare;Rotonda;10301-560;141;141;49;-;-;560
+Altri (Corpo);Testicoli;POLYsmoooth;Testicoli;Normale;10100-005;20;22;-;-;-;5
+Altri (Corpo);Testicoli;POLYsmoooth;Testicoli;Normale;10100-012;26;33;-;-;-;12
+Altri (Corpo);Testicoli;POLYsmoooth;Testicoli;Normale;10100-021;42;32;-;-;-;21
+Altri (Corpo);Testicoli;POLYsmoooth;Testicoli;Normale;10100-027;33;48;-;-;-;27
+Altri (Corpo);Testicoli;POLYsmoooth;Testicoli;Normale;10100-036;50;39;-;-;-;36
+Altri (Corpo);Pettorali;MESMO;Pettorali Sinistro;Rettangolare;15500-190L;147;102;24;-;-;190
+Altri (Corpo);Pettorali;MESMO;Pettorali Sinistro;Rettangolare;15500-230L;160;107;27;-;-;230
+Altri (Corpo);Pettorali;MESMO;Pettorali Sinistro;Rettangolare;15500-300L;169;116;29;-;-;300
+Altri (Corpo);Pettorali;MESMO;Pettorali Destro;Rettangolare;15500-190R;147;102;24;-;-;190
+Altri (Corpo);Pettorali;MESMO;Pettorali Destro;Rettangolare;15500-230R;160;107;27;-;-;230
+Altri (Corpo);Pettorali;MESMO;Pettorali Destro;Rettangolare;15500-300R;169;116;29;-;-;300
+Altri (Corpo);Polpacci;POLYsmoooth;Simmetrica;Fusiforme;10200-012;21;62;12;-;-;16
+Altri (Corpo);Polpacci;POLYsmoooth;Simmetrica;Fusiforme;10200-030;30;102;19;-;-;30
+Altri (Corpo);Polpacci;POLYsmoooth;Simmetrica;Fusiforme;10200-070;33;157;25;-;-;70
+Altri (Corpo);Polpacci;POLYsmoooth;Simmetrica;Fusiforme;10200-090;32;195;23;-;-;90
+Altri (Corpo);Polpacci;POLYsmoooth;Simmetrica;Fusiforme;10200-120;34;268;25;-;-;120
+Altri (Corpo);Polpacci;POLYsmoooth;Simmetrica;Fusiforme;10200-140;44;262;25;-;-;140
+Altri (Corpo);Polpacci;POLYsmoooth;Anatomica;Fusiforme;10201-085;47;151;24;-;-;85
+Altri (Corpo);Polpacci;POLYsmoooth;Anatomica;Fusiforme;10201-140;54;197;25;-;-;140
+Altri (Corpo);Polpacci;POLYsmoooth;Anatomica;Fusiforme;10201-180;58;231;26;-;-;180
+;;;;;;;;;;;
+```;;;;;;;;;;;
